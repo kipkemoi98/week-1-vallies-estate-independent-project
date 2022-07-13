@@ -135,3 +135,33 @@ get-started{
 .btn-view-more{
     float: right;
 }
+.footer-wrapper{
+    background-color: blue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    color: #fff;
+}
+.footer-1{
+    padding-left: 50px;
+}
+.footer-1 ul{
+    list-style: none;
+}
+.footer-1 ul li{
+    padding-bottom: 14px;
+}
+.customer-heading{
+    text-align: center;
+    padding-top: 70px;
+}
+.customer-heading h1{
+    color: blue;
+}
+.names{
+    display: flex;
+    padding-left: 150px;
+}
+.name-1{
+    padding-left: 50px;
+}
