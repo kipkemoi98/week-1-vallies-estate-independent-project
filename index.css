@@ -83,19 +83,19 @@ get-started{
 }
 .product-images-wrapper{
     display: flex;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 30px;
 }
 .product1{
     background-color: #fff;
-    padding: 70px 50px 70px;
-    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
 }
 .product-image{
-    width: 50px;
+    width: 7vh;
+    padding-left: 200px;
+    padding-right: 200px;
+    height: auto;
 }
-
-
 .quality{
     display: flex;
     align-items: space-between;
@@ -117,7 +117,7 @@ get-started{
 .list-main{
     display: flex;
 }
-.list-main .sub-list{
+.list-main.sub-list{
     padding-left: 60px;
 }
 .sales-wrapper{
@@ -128,12 +128,13 @@ get-started{
 }
 .single-property{
     background-color: #fff;
-    padding-right: 0;
+    padding-right: 2px;
     margin-left: 80px;
     
 }
 .single-property img{
-    width: 300px;
+    width: 55vh;
+    padding: 70px;
 }
 
 .btn-view-more{
@@ -168,4 +169,34 @@ get-started{
 }
 .name-1{
     padding-left: 50px;
+}
+.choose{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: center;
+}
+.image-2{
+ float: left;   
+ width: 200px;
+ margin-left: 400px;
+}
+.quality_lyfestiles{
+    overflow: visible;
+    white-space: nowrap;
+}
+/* featured_properties{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+} */
+.fp .h2{ 
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    flex-direction: row;
+} 
+#imagpalace{
+  width: 50vh;
+  float: left;
 }
