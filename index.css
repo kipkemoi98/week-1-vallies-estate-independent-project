@@ -141,36 +141,6 @@ get-started{
 .btn-view-more{
     float: right;
 }
-.footer-wrapper{
-    background-color: blue;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    display: flex;
-    color: #fff;
-}
-.footer-1{
-    padding-left: 50px;
-}
-.footer-1 ul{
-    list-style: none;
-}
-.footer-1 ul li{
-    padding-bottom: 14px;
-}
-.customer-heading{
-    text-align: center;
-    padding-top: 70px;
-}
-.customer-heading h1{
-    color: blue;
-}
-.names{
-    display: flex;
-    padding-left: 150px;
-}
-.name-1{
-    padding-left: 50px;
-}
 .choose{
     width: 50%;
     margin:100px auto 100px auto;
@@ -213,7 +183,7 @@ get-started{
   .menu{
     display: flex;
     gap: 1em;
-    font-size: 18px;
+    font-size: 16px;
    }
    .top_nav a{
     color: rgb(53, 49, 49);
@@ -224,12 +194,13 @@ get-started{
    }
     .top_nav a{
         font-weight: bolder;
-        color: #2549D3;
+        color: bolder;
         height: 1px;
         align-items: center;
+        font-size: 32px;
     }
         h1{
-            color: #2549D3;
+            color: white
         }
 .get_started_btn{
   background-color: #0F298B;
@@ -245,3 +216,24 @@ get-started{
     text-align: center;
     line-height: 2;
    }
+   .lorem{
+    display: inline-flex;
+    overflow: hidden;
+}
+.j{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: center;
+    background-color: white;
+    padding-left: 300px;
+    margin-left: 40px;
+}
+.z{
+    margin: auto;
+}
+.s{
+    display: flex;
+    border: solid white;
+    background-color: blue;
+    color: white
+}
