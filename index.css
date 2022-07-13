@@ -237,3 +237,15 @@ get-started{
     background-color: blue;
     color: white
 }
+.house_images{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+    margin-left: 40px;
+}
+.find_home{
+    display: inline-flex;
+    overflow: hidden;
+}
