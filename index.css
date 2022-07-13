@@ -73,3 +73,27 @@ get-started{
 .section-title h1, .sub-heading h2{ 
     color: blue;
 }
+.sub-heading{
+    text-align: center;
+}
+.product-card-wrapper{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.product-card{
+    background-color: #fff;
+    padding: 70px 50px 70px;
+    margin-left: 50px;
+}
+.product-image{
+    width: 50px;
+}
+
+
+.quality{
+    display: flex;
+    align-items: space-between;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
