@@ -22,3 +22,22 @@
 .menu ul li a{
     text-decoration: none;
 }
+get-started{
+    padding-left: 150px;
+}
+.get-started-btn, .btn-learn-more{
+    padding: 20px 35px;
+    background-color: blue;
+    color: #fff;
+    border: 1px solid blue;
+    border-radius: 15px;
+}
+
+.hero-wrapper{
+    display: flex;
+    padding-top: 70px;
+}
+.hero-wrapper img{
+    width: 700px;
+    padding-left: 150px;
+}
