@@ -216,9 +216,7 @@ get-started{
     font-size: 18px;
    }
    .top_nav a{
-    float: left;
     color: rgb(53, 49, 49);
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
@@ -228,20 +226,19 @@ get-started{
         font-weight: bolder;
         color: #2549D3;
         height: 1px;
+        align-items: center;
     }
         h1{
             color: #2549D3;
         }
 .get_started_btn{
   background-color: #0F298B;
-  border: none;
   color: #FAFAFA;
   border-radius: 10px;
-  padding: 15px 32px;
-  text-align: center;
+  padding: 10px 32px;
   text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+  display: flex;
+  font-size: 28px;
    }
    div{
     /* overflow: auto; */
