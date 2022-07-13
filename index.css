@@ -97,3 +97,25 @@ get-started{
     padding-top: 80px;
     padding-bottom: 50px;
 }
+.quality img{
+    width: 600px;
+    padding-left: 100px;
+    padding-right: 60px;
+
+}
+.quality-info{
+    padding-right: 40px;
+}
+.quality-heading{
+    padding-bottom: 20px;
+    color: blue;
+}
+.list-main{
+    display: flex;
+}
+.list-main .sub-list{
+    padding-left: 60px;
+}
+.sales-wrapper{
+    padding-top: 100px;
+}
