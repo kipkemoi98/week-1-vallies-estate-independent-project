@@ -33,27 +33,27 @@ get-started{
     border-radius: 15px;
 }
 
-.hero-wrapper{
+.help-wrapper{
     display: flex;
     padding-top: 70px;
 }
-.hero-wrapper img{
+.help-wrapper img{
     width: 700px;
     padding-left: 150px;
 }
-.hero-text{
+.help-text{
     padding-left: 60px;
     padding-right: 50px;
 }
-.text-blue{
+.text-clr{
     color: blue;
     font-size: 50px;
 }
-.btn-part{
+.learn.more{
     display: flex;
 }
 
-.info-wrapper{
+.loca-wrapper{
     display: flex;
     margin: 60px 300px 60px;
     text-align: center;
@@ -62,18 +62,18 @@ get-started{
     border-radius: 15px;
 }
 
-.info-wrapper h6{
+.loca-wrapper h6{
     font-size: 25px;
     color: blue;
 }
-.info-wrapper div{
+.loca-wrapper div{
     padding-left: 50px;
 }
 
-.section-title h1, .sub-heading h2{ 
+.sour-products h1, .sub.heading h2{ 
     color: blue;
 }
-.sub-heading{
+.sub.heading{
     text-align: center;
 }
 .product-card-wrapper{
