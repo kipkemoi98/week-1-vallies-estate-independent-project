@@ -46,9 +46,14 @@
 .loca-wrapper h6{
     font-size: 25px;
     color: blue;
+
 }
 .loca-wrapper div{
-    padding-left: 50px;
+    padding-right: 300px;
+    justify-content: center;
+    padding: 100px;
+    border: 2px;flex-direction: row;
+    border-radius: 10%;
 }
 
 .our-products h1, .sub.heading h2{ 
