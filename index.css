@@ -1,5 +1,6 @@
 *{
     background-color: #2549D3, #0F298B, #FAFAFA;
+    font-size: 30px;
 }
 .logo h1{
     font-family: 'Oleo Script', cursive;
@@ -10,6 +11,7 @@
     align-items: space-between;
     padding-top: 20px;
     border-bottom: 1px solid gray;
+    text-indent: 50px;
 }
 
 .menu ul{ 
@@ -111,7 +113,6 @@ get-started{
 }
 .quality-heading{
     padding-bottom: 20px;
-    color: blue;
 }
 .list-main{
     display: flex;
