@@ -1,3 +1,6 @@
+*{
+    background-color: #2549D3, #0F298B, #FAFAFA;
+}
 .logo h1{
     font-family: 'Oleo Script', cursive;
     color: blue;
@@ -76,12 +79,12 @@ get-started{
 .sub.heading{
     text-align: center;
 }
-.product-card-wrapper{
+.product-images-wrapper{
     display: flex;
     margin-left: 50px;
     margin-right: 50px;
 }
-.product-card{
+.product1{
     background-color: #fff;
     padding: 70px 50px 70px;
     margin-left: 50px;
@@ -103,7 +106,7 @@ get-started{
     padding-right: 60px;
 
 }
-.quality-info{
+.creating-quality{
     padding-right: 40px;
 }
 .quality-heading{
