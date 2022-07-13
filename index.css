@@ -2,28 +2,8 @@
     background-color: #2549D3, #0F298B, #FAFAFA;
     font-size: 30px;
 }
-.nav.bar.wrapper{
-    display: flex;
-    align-items: space-between;
-    padding-top: 20px;
-    border-bottom: 1px solid gray;
-    text-indent: 50px;
-}
 
-.menu ul{ 
-    display: flex;
-    list-style: none;
-    padding-left: 150px;
-}
-
-.menu ul li{
-    padding-right: 60px;
-}
-
-.menu ul li a{
-    text-decoration: none;
-}
-get-started{
+.get-started{
     padding-left: 150px;
 }
 .get-started-btn, .btn-learn-more{
@@ -71,7 +51,7 @@ get-started{
     padding-left: 50px;
 }
 
-.sour-products h1, .sub.heading h2{ 
+.our-products h1, .sub.heading h2{ 
     color: blue;
 }
 .sub.heading{
@@ -79,7 +59,6 @@ get-started{
 }
 .product-images-wrapper{
     display: flex;
-    margin-left: 30px;
 }
 .product1{
     background-color: #fff;
@@ -89,14 +68,15 @@ get-started{
     border: 2px solid;
     box-shadow: #FAFAFA;
     border-style: inherit;
-    padding-left: 300px;
+    padding-left: 250px;
+    padding-right: 250px;
     width: 70vh;
 }
 .product-image{
     width: 18vh;
-    padding-left: 200px;
     padding-right: 20px;
-    height: auto;
+    margin: 2opx;
+
 }
 .quality{
     display: flex;
@@ -237,4 +217,8 @@ get-started{
     border: solid white;
     background-color: blue;
     color: white
+}
+.fa-youtube{
+    font-size: 30px !important;
+    border-radius: 100%;
 }
