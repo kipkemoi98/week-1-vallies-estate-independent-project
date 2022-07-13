@@ -119,3 +119,19 @@ get-started{
 .sales-wrapper{
     padding-top: 100px;
 }
+.property-wrapper{
+    display: flex;
+}
+.single-property{
+    background-color: #fff;
+    padding-right: 0;
+    margin-left: 80px;
+    
+}
+.single-property img{
+    width: 300px;
+}
+
+.btn-view-more{
+    float: right;
+}
