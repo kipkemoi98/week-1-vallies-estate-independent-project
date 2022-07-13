@@ -2,10 +2,6 @@
     background-color: #2549D3, #0F298B, #FAFAFA;
     font-size: 30px;
 }
-.logo h1{
-    font-family: 'Oleo Script', cursive;
-    color: blue;
-}
 .nav.bar.wrapper{
     display: flex;
     align-items: space-between;
@@ -89,12 +85,17 @@ get-started{
     background-color: #fff;
     display: flex;
     flex-direction: column;
-    padding-top: 50px;
+    padding: 10px;
+    border: 2px solid;
+    box-shadow: #FAFAFA;
+    border-style: inherit;
+    padding-left: 300px;
+    width: 70vh;
 }
 .product-image{
-    width: 7vh;
+    width: 18vh;
     padding-left: 200px;
-    padding-right: 200px;
+    padding-right: 20px;
     height: auto;
 }
 .quality{
@@ -236,16 +237,4 @@ get-started{
     border: solid white;
     background-color: blue;
     color: white
-}
-.house_images{
-    width: 50%;
-    margin:100px auto 100px auto;
-    text-align: center;
-    background-color: white;
-    padding: 50px;
-    margin-left: 40px;
-}
-.find_home{
-    display: inline-flex;
-    overflow: hidden;
 }
