@@ -2,7 +2,7 @@
     font-family: 'Oleo Script', cursive;
     color: blue;
 }
-.navbar-wrapper{
+.nav.bar.wrapper{
     display: flex;
     align-items: space-between;
     padding-top: 20px;
